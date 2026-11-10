@@ -70,8 +70,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/node-dark.svg">
-    <img src="assets/node.svg" width="420" alt="Rotating ASCII neural network node">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/galaxy-dark.svg">
+    <img src="assets/galaxy.svg" width="600" alt="Rotating ASCII spiral galaxy">
   </picture>
 </p>
 
