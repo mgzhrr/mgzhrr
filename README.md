@@ -23,11 +23,11 @@
   <tr>
     <td width="46%" valign="middle">
       <samp>
-        I'm Max. Student, dev, larper. I vibecode Roblox games for fun, mostly simulators where numbers go up.
+        I'm Max. Student, dev, larper.
         <br><br>
-        Lately I spend my free time learning about AI, and the rest of it losing rounds in Rainbow Six Siege.
+        Lately I spend my free time learning about AI and Data Science.
         <br><br>
-        Outside Roblox I build small tools for myself, like <a href="https://github.com/mgzhrr/NOX">NOX</a>, a minimal Windows music player for my own Apple Music library.
+        I like building small tools for myself, like <a href="https://github.com/mgzhrr/NOX">NOX</a>, a minimal Windows music player for my own Apple Music library.
       </samp>
     </td>
     <td width="54%" align="center" valign="middle">
