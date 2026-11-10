@@ -23,11 +23,7 @@
   <tr>
     <td width="46%" valign="middle">
       <samp>
-        I'm Max. Student, dev, larper.
-        <br><br>
-        Lately I spend my free time learning about AI and Data Science.
-        <br><br>
-        I like building small tools for myself, like <a href="https://github.com/mgzhrr/NOX">NOX</a>, a minimal Windows music player for my own Apple Music library.
+        Hi, I'm Max.
       </samp>
     </td>
     <td width="54%" align="center" valign="middle">
@@ -43,91 +39,41 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <samp><b>Games</b></samp>
-      <br><br>
-      <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat-square" alt="Roblox Studio">
-      <img src="https://img.shields.io/badge/Luau-000000?style=flat-square" alt="Luau">
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <samp><b>Desktop</b></samp>
       <br><br>
-      <img src="https://img.shields.io/badge/C%23-000000?style=flat-square" alt="C#">
-      <img src="https://img.shields.io/badge/.NET-000000?style=flat-square" alt=".NET">
-      <img src="https://img.shields.io/badge/WPF-000000?style=flat-square" alt="WPF">
-      <img src="https://img.shields.io/badge/WebView2-000000?style=flat-square" alt="WebView2">
+      <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="44" alt="C#">
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="44" alt=".NET">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" alt="C">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" alt="C++">
+      <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="44" alt="Rust">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" alt="Java">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" alt="Python">
+      <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="44" alt="Lua">
+      <img src="assets/luau.svg" width="44" alt="Luau">
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <samp><b>Web</b></samp>
       <br><br>
-      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square" alt="CSS">
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square" alt="JavaScript">
-      <img src="https://img.shields.io/badge/React-000000?style=flat-square" alt="React">
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square" alt="Express">
-      <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square" alt="SQLite">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" alt="HTML">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" alt="CSS">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" alt="JavaScript">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" alt="React">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" alt="Node.js">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="44" alt="Express">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="44" alt="SQLite">
     </td>
   </tr>
 </table>
 
-## Experience
+<br>
 
-<table>
-  <tr>
-    <td width="90" align="center" valign="top"><samp><kbd>2027</kbd><br>│<br>│</samp></td>
-    <td valign="top">
-      <samp>
-        <b>AI and Data Science student</b><br>
-        <sub>at University · upcoming</sub><br><br>
-        Starting my degree in August 2027.
-      </samp>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center" valign="top"><samp><kbd>2026</kbd><br>│<br>│</samp></td>
-    <td valign="top">
-      <samp>
-        <b>Creator of NOX</b><br>
-        <sub>at <a href="https://github.com/mgzhrr/NOX">mgzhrr/NOX</a></sub><br><br>
-        A minimal Windows music player for my own Apple Music library: playlists, search, tray controls and Discord status. C#, WPF and WebView2.
-      </samp>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center" valign="top"><samp><kbd>2026</kbd><br>│<br>│</samp></td>
-    <td valign="top">
-      <samp>
-        <b>Roblox developer</b><br>
-        <sub>at Roblox</sub><br><br>
-        Building and publishing my own games:
-        <a href="https://www.roblox.com/games/135121516821286/Graffiti-Dash">Graffiti Dash</a>,
-        <a href="https://www.roblox.com/games/71117153067011/Sell-Internet">Sell Internet</a> and
-        <a href="https://www.roblox.com/games/85698322388654/Merge-a-Tree">Merge a Tree</a>.
-      </samp>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center" valign="top"><samp><kbd>2025</kbd><br>│<br>│</samp></td>
-    <td valign="top">
-      <samp>
-        <b>Web developer</b><br>
-        <sub>at a football field rental</sub><br><br>
-        Built and sold my first web page: an admin site for a football field rental.
-      </samp>
-    </td>
-  </tr>
-  <tr>
-    <td width="90" align="center" valign="top"><samp><kbd>2025</kbd></samp></td>
-    <td valign="top">
-      <samp>
-        <b>Software Engineering student</b><br>
-        <sub>at University</sub><br><br>
-        Started in February 2025. Left in July 2026 to build things full time.
-      </samp>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/donut-dark.svg">
+    <img src="assets/donut.svg" width="440" alt="Spinning ASCII art donut">
+  </picture>
+</p>
 
 <a name="contact"></a>
 
