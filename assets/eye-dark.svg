@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 578 288" width="578" height="288" role="img" aria-label="ASCII art eye that blinks and looks around">
+<title>ASCII art eye that blinks and looks around</title>
+<!-- Static fallback: with animation off, every element sits in its resting state (eye open, iris centered). -->
+<defs>
+<clipPath id="lids">
+<rect x="0" y="0" width="578" height="288">
+<!-- Blink: the visible window closes down to one row every 5s (10s loop, two blinks). -->
+<animate attributeName="y" dur="10s" repeatCount="indefinite" keyTimes="0;.46;.472;.48;.5;.95;.962;.97;.99;1" values="0;0;192;192;0;0;192;192;0;0"/>
+<animate attributeName="height" dur="10s" repeatCount="indefinite" keyTimes="0;.46;.472;.48;.5;.95;.962;.97;.99;1" values="288;288;16;16;288;288;16;16;288;288"/>
+</rect>
+</clipPath>
+</defs>
+<g clip-path="url(#lids)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#dcdcdc" xml:space="preserve">
+<g fill="#b0b0b0">
+<!-- Scanline flicker on the outer rows. -->
+<animate attributeName="opacity" dur="4.3s" repeatCount="indefinite" values="1;.65;.95;.75;1"/>
+<text x="217.6" y="28" textLength="176.4">...',;;:cccccccc:;,..</text>
+<text x="184" y="44" textLength="243.6">..,;:cccc::::ccccclloooolc;'.</text>
+<text x="158.8" y="60" textLength="310.8">.',;:::;;;;:loodxkOkkxxkxxdocccc;;'..</text>
+<text x="49.6" y="220">.</text>
+<text x="100" y="220" textLength="378">....'''',,,;;:cccccclllloooollllccc:c:::;,'..</text>
+<text x="116.8" y="236" textLength="361.2">.......'',,,,,,,;;:::::ccccc:::::;;;,,''...</text>
+<text x="133.6" y="252" textLength="336">...............''',,,;;;,,''''''' ......</text>
+<text x="175.6" y="268" textLength="226.8">...........................</text>
+</g>
+<text x="142" y="76" textLength="352.8">.,;;;,,;:coxldKNWWMMMMMWNNWWNNKkdolcccc:,.</text>
+<text x="116.8" y="92" textLength="403.2">.',;;,',;lxo:...dXWMMMMMMMMWNkloOXNNNX0koc:coo;.</text>
+<text x="91.6" y="108" textLength="117.6">..,;:;,,,:ldl'</text>
+<text x="377.2" y="108" textLength="151.2">..':d0XWWN0d:;lkd,</text>
+<text x="74.8" y="124" textLength="117.6">..,;;,,'':loc.</text>
+<text x="410.8" y="124" textLength="142.8">..';lx00X0l,cxo,.</text>
+<text x="58" y="140" textLength="117.6">..''....'cooc.</text>
+<text x="452.8" y="140" textLength="100.8">,ddx00occl:.</text>
+<text x="41.2" y="156" textLength="117.6">..'..  .':odc.</text>
+<text x="444.4" y="156" textLength="109.2">.cxxxkkdl:,..</text>
+<text x="16" y="172" textLength="142.8">..''..   ;dxolc;'</text>
+<text x="427.6" y="172" textLength="126">.;looolllol:'..</text>
+<text x="16" y="188" textLength="184.8">..'..    .':lloolc:,..</text>
+<text x="385.6" y="188" textLength="168">..':clc:::;,,;:;,'..</text>
+<text x="16" y="204" textLength="529.2">......   ....',;;;:ccc::;;,''',:loddol:,,;:clllolc:;;,'........</text>
+<g fill="#fff">
+<!-- Iris drift: jumps whole character cells left, back, then right, between blinks. -->
+<animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="10s" repeatCount="indefinite" keyTimes="0;.18;.19;.33;.34;.62;.63;.77;.78" values="0 0;-8.4 0;-16.8 0;-8.4 0;0 0;8.4 0;16.8 0;8.4 0;0 0"/>
+<text x="234.4" y="108" textLength="142.8">.kWMMMWXXNWMMMMXd</text>
+<text x="234.4" y="124" textLength="159.6">lKMMMNl.  .cOKNWNK:</text>
+<text x="234.4" y="140" textLength="151.2">cONMMX;   .lOXWNO;</text>
+<text x="234.4" y="156" textLength="151.2">.x0KKKkolcldO00xc.</text>
+<text x="242.8" y="172" textLength="134.4">.lxxO0OkkxxO0kc.</text>
+<text x="259.6" y="188" textLength="100.8">'lxkkkkkOkd,</text>
+</g>
+</g>
+</svg>
