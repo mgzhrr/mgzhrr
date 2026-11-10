@@ -48,7 +48,6 @@
       <br><br>
       <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=flat-square" alt="Roblox Studio">
       <img src="https://img.shields.io/badge/Luau-000000?style=flat-square" alt="Luau">
-      <img src="https://img.shields.io/badge/Simulators-000000?style=flat-square" alt="Simulators">
     </td>
     <td width="33%" valign="top">
       <samp><b>Desktop</b></samp>
