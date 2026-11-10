@@ -21,15 +21,15 @@
 
 <table>
   <tr>
-    <td width="46%" valign="middle">
+    <td width="22%" valign="middle">
       <samp>
         Hi, I'm Max.
       </samp>
     </td>
-    <td width="54%" align="center" valign="middle">
+    <td width="78%" align="center" valign="middle">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/eye-dark.svg">
-        <img src="assets/eye.svg" width="420" alt="Animated ASCII art eye that blinks and looks around">
+        <img src="assets/eye.svg" width="100%" alt="Animated ASCII art eye that blinks and looks around">
       </picture>
     </td>
   </tr>
@@ -70,8 +70,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/donut-dark.svg">
-    <img src="assets/donut.svg" width="440" alt="Spinning ASCII art donut">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hands-dark.svg">
+    <img src="assets/hands.svg" width="100%" alt="ASCII art of two reaching hands with a rotating neural network node between them">
   </picture>
 </p>
 
