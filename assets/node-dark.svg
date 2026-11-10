@@ -1,0 +1,1055 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 516" width="540" height="516" role="img" aria-label="Rotating ASCII neural network node">
+<title>Rotating neural node</title>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" xml:space="preserve">
+<g fill="#a8a8a8">
+</g>
+<g fill="#ffffff">
+<g><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0208" values="visible;hidden"/>
+<text x="202.8" y="120" textLength="16.8">O:</text>
+<text x="202.8" y="135" textLength="100.8">::::::::::::</text>
+<text x="202.8" y="150" textLength="176.4">:::         ::::::::O</text>
+<text x="194.4" y="165" textLength="193.2">:  :.               :::</text>
+<text x="194.4" y="180" textLength="201.6">:   :.            ::  ::</text>
+<text x="194.4" y="195" textLength="201.6">:    o..         *     :</text>
+<text x="186.0" y="210" textLength="218.4">:      *....    ::       :</text>
+<text x="186.0" y="225" textLength="226.8">:      ::   .. :         ::</text>
+<text x="186.0" y="240" textLength="226.8">0*      :.   ::..         :</text>
+<text x="160.8" y="255" textLength="260.4">::: ::::::: *.::   ...       ::</text>
+<text x="144.0" y="270" textLength="285.6">:::       ::::*@:::::..o        ::</text>
+<text x="118.8" y="285" textLength="310.8">:::::*:::::::  ...:.    ::*:::::::: :</text>
+<text x="118.8" y="300" textLength="310.8">O::..        ..   * .     .       ::0</text>
+<text x="160.8" y="315" textLength="252.0">.....o..     :: .    .      ::</text>
+<text x="211.2" y="330" textLength="184.8">....    :  .  .     ::</text>
+<text x="244.8" y="345" textLength="134.4">....:  .. .   ::</text>
+<text x="278.4" y="360" textLength="84.0">:... .. ::</text>
+<text x="278.4" y="375" textLength="67.2">:  ...o:</text>
+<text x="278.4" y="390" textLength="58.8">:   .::</text>
+<text x="278.4" y="405" textLength="42.0">: :::</text>
+<text x="286.8" y="420" textLength="16.8">0:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0208;0.0417" values="hidden;visible;hidden"/>
+<text x="211.2" y="120" textLength="25.2">O::</text>
+<text x="202.8" y="135" textLength="100.8">::.:::::::::</text>
+<text x="194.4" y="150" textLength="193.2">:: :.        ::::::::::</text>
+<text x="194.4" y="165" textLength="201.6">:   :.               :O:</text>
+<text x="186.0" y="180" textLength="210.0">:     :.o           ::  :</text>
+<text x="177.6" y="195" textLength="218.4">::     :*...        :*   :</text>
+<text x="177.6" y="210" textLength="226.8">:       : . ..    ::      :</text>
+<text x="169.2" y="225" textLength="235.2">:         :.   ..::        :</text>
+<text x="160.8" y="240" textLength="252.0">:0::        :   ::...       ::</text>
+<text x="144.0" y="255" textLength="268.8">::    ::::::: :*:::   ..       :</text>
+<text x="127.2" y="270" textLength="285.6">:::      .....:::@:::......o     :</text>
+<text x="118.8" y="285" textLength="302.4">O:..*.....     ..*:.  :::::*::     :</text>
+<text x="144.0" y="300" textLength="277.2">......    ...  : .      . ::::::0</text>
+<text x="186.0" y="315" textLength="235.2">...o..    * ..     .     :::</text>
+<text x="228.0" y="330" textLength="176.4">...  :  ..   .    :::</text>
+<text x="253.2" y="345" textLength="126.0">..:.   .  . :::</text>
+<text x="261.6" y="360" textLength="100.8">::... ...:::</text>
+<text x="261.6" y="375" textLength="84.0">:    ..:::</text>
+<text x="261.6" y="390" textLength="75.6">:    ::.o</text>
+<text x="261.6" y="405" textLength="50.4">: ::::</text>
+<text x="261.6" y="420" textLength="25.2">0::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0417;0.0625" values="hidden;visible;hidden"/>
+<text x="211.2" y="120" textLength="25.2">O::</text>
+<text x="202.8" y="135" textLength="100.8">:::.::::::::</text>
+<text x="202.8" y="150" textLength="168.0">:  :..      ::::::::</text>
+<text x="186.0" y="165" textLength="210.0">::   ::..             ::O</text>
+<text x="186.0" y="180" textLength="210.0">:     :  .o          *: :</text>
+<text x="169.2" y="195" textLength="226.8">::      :*  ...      ::   :</text>
+<text x="160.8" y="210" textLength="243.6">::        :  .  ..  :::     :</text>
+<text x="152.4" y="225" textLength="252.0">:           : .    :::       :</text>
+<text x="144.0" y="240" textLength="260.4">:0:::::       :*  ::: ..      :</text>
+<text x="135.6" y="255" textLength="268.8">::      :::::: :::::     ..    :</text>
+<text x="127.2" y="270" textLength="277.2">:..*..........::*@*:........o   :</text>
+<text x="127.2" y="285" textLength="277.2">O....          .*:* :::::  ..   :</text>
+<text x="169.2" y="300" textLength="243.6">......  .. :  .     :*::::  :</text>
+<text x="211.2" y="315" textLength="201.6">..o.  *  ..     ..  :::0</text>
+<text x="244.8" y="330" textLength="151.2">..:   .     .  :::</text>
+<text x="253.2" y="345" textLength="117.6">:..   ..  .:::</text>
+<text x="253.2" y="360" textLength="100.8">:  ... . :::</text>
+<text x="253.2" y="375" textLength="92.4">:     :::..</text>
+<text x="244.8" y="390" textLength="92.4">::  :::...O</text>
+<text x="244.8" y="405" textLength="67.2">: :::::.</text>
+<text x="244.8" y="420" textLength="25.2">0::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0625;0.0833" values="hidden;visible;hidden"/>
+<text x="219.6" y="120" textLength="33.6">O:::</text>
+<text x="211.2" y="135" textLength="92.4">:::.:::::::</text>
+<text x="194.4" y="150" textLength="176.4">::  : ..     ::::::::</text>
+<text x="186.0" y="165" textLength="210.0">:     :  ..          :::0</text>
+<text x="169.2" y="180" textLength="226.8">::       *   .o         *::</text>
+<text x="160.8" y="195" textLength="235.2">::        :    ..      ::  :</text>
+<text x="152.4" y="210" textLength="243.6">:           :  .  ..  ::    :</text>
+<text x="135.6" y="225" textLength="260.4">0::           :  .   :::      :</text>
+<text x="135.6" y="240" textLength="260.4">: ::::::       : * ::: ...    :</text>
+<text x="135.6" y="255" textLength="260.4">:      ::::::: :::::     ...  :</text>
+<text x="135.6" y="270" textLength="260.4">O.*..........:*:@:*.......... :</text>
+<text x="152.4" y="285" textLength="243.6">.....       .*:.::::      .o:</text>
+<text x="194.4" y="300" textLength="201.6">........: *.   :::* .. :</text>
+<text x="228.0" y="315" textLength="168.0">.o.:   ..      :::::</text>
+<text x="253.2" y="330" textLength="142.8">*.   ..     .:::0</text>
+<text x="244.8" y="345" textLength="126.0">:  ..  .   ::::</text>
+<text x="244.8" y="360" textLength="109.2">:    .. :::..</text>
+<text x="236.4" y="375" textLength="109.2">:     ::::. .</text>
+<text x="228.0" y="390" textLength="109.2">:   :::   ..O</text>
+<text x="228.0" y="405" textLength="84.0">:::::::::.</text>
+<text x="219.6" y="420" textLength="33.6">0:::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0833;0.1042" values="hidden;visible;hidden"/>
+<text x="219.6" y="120" textLength="42.0">:O:::</text>
+<text x="211.2" y="135" textLength="100.8">::::.:::::::</text>
+<text x="194.4" y="150" textLength="159.6">::   : ...   ::::::</text>
+<text x="177.6" y="165" textLength="226.8">:::    ::  ...       :::::0</text>
+<text x="169.2" y="180" textLength="235.2">::       *    ..        :*::</text>
+<text x="152.4" y="195" textLength="243.6">::         ::    .o.    ::: :</text>
+<text x="135.6" y="210" textLength="260.4">::            :   .. .. :::   :</text>
+<text x="127.2" y="225" textLength="268.8">0::::          ::  .   ::.     :</text>
+<text x="135.6" y="240" textLength="252.0">:  ::::::      : .* ::   .   :</text>
+<text x="144.0" y="255" textLength="243.6">o      :::::* :::::      .. :</text>
+<text x="152.4" y="270" textLength="235.2">*..........:::@:.*....    .:</text>
+<text x="177.6" y="285" textLength="218.4">.....     *..:::  .....:.o</text>
+<text x="211.2" y="300" textLength="176.4">.... :  .* :::     :.</text>
+<text x="244.8" y="315" textLength="134.4">o:   .    :*:: :</text>
+<text x="236.4" y="330" textLength="134.4">*: ..  .      :0</text>
+<text x="236.4" y="345" textLength="126.0">:   .. ..  ::::</text>
+<text x="228.0" y="360" textLength="126.0">:      .::::  .</text>
+<text x="219.6" y="375" textLength="126.0">:     :::...  .</text>
+<text x="211.2" y="390" textLength="126.0">:: ::::     ...</text>
+<text x="211.2" y="405" textLength="117.6">::::::::::...O</text>
+<text x="202.8" y="420" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1042;0.1250" values="hidden;visible;hidden"/>
+<text x="228.0" y="120" textLength="42.0">:O:::</text>
+<text x="211.2" y="135" textLength="100.8">:::::.::::::</text>
+<text x="194.4" y="150" textLength="159.6">:::   : ...  ::::::</text>
+<text x="177.6" y="165" textLength="218.4">:::     *    ..      :::::</text>
+<text x="160.8" y="180" textLength="243.6">:::        :    ...       :*0</text>
+<text x="144.0" y="195" textLength="252.0">::           :      o.   ::: :</text>
+<text x="127.2" y="210" textLength="260.4">0:             :     .  .:::  :</text>
+<text x="127.2" y="225" textLength="260.4">:::::           :   *  :::.   :</text>
+<text x="135.6" y="240" textLength="243.6">:.  ::::::     :  . ::    . :</text>
+<text x="152.4" y="255" textLength="226.8">o......:::*: :::::       .:</text>
+<text x="169.2" y="270" textLength="218.4">.... .....::@:..*.     :..</text>
+<text x="202.8" y="285" textLength="201.6">...    *.::  .....::...o</text>
+<text x="228.0" y="300" textLength="168.0">..:o. . ::     :   .</text>
+<text x="244.8" y="315" textLength="151.2">: .  *  ::* ::  ..</text>
+<text x="228.0" y="330" textLength="151.2">::   .  .   :::  .</text>
+<text x="219.6" y="345" textLength="151.2">:*     . . ::::0..</text>
+<text x="211.2" y="360" textLength="151.2">:       :::::   ..</text>
+<text x="202.8" y="375" textLength="142.8">::   ::::  ...  .</text>
+<text x="194.4" y="390" textLength="142.8">: ::::        ...</text>
+<text x="186.0" y="405" textLength="142.8">0:::::::::::....O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1250;0.1458" values="hidden;visible;hidden"/>
+<text x="236.4" y="120" textLength="33.6">:O::</text>
+<text x="219.6" y="135" textLength="84.0">::::..::::</text>
+<text x="194.4" y="150" textLength="151.2">:::    *  .. :::::</text>
+<text x="177.6" y="165" textLength="210.0">::       :    ..    :::::</text>
+<text x="152.4" y="180" textLength="243.6">:::         :      ..      :0</text>
+<text x="135.6" y="195" textLength="252.0">:::           :       .o. ::::</text>
+<text x="118.8" y="210" textLength="268.8">0::              :     .. .:: ::</text>
+<text x="135.6" y="225" textLength="243.6">::::::         :    *.::: . :</text>
+<text x="152.4" y="240" textLength="218.4">..  ::::     :   .::    .:</text>
+<text x="169.2" y="255" textLength="210.0">o.....:*::  ::::      : .</text>
+<text x="186.0" y="270" textLength="210.0">.... ...:*@*..     ::  ..</text>
+<text x="219.6" y="285" textLength="184.8">... ::*:  .*...:..  ..</text>
+<text x="244.8" y="300" textLength="168.0">:..o.:     :   ....O</text>
+<text x="236.4" y="315" textLength="159.6">:   . *::  :      .</text>
+<text x="219.6" y="330" textLength="168.0">::     .. :*::    ..</text>
+<text x="211.2" y="345" textLength="168.0">*:       .:::0    ..</text>
+<text x="202.8" y="360" textLength="168.0">:     :::::.     ...</text>
+<text x="186.0" y="375" textLength="168.0">::  :::::    ..   ..</text>
+<text x="177.6" y="390" textLength="159.6">:::::          .. .</text>
+<text x="177.6" y="405" textLength="151.2">0::::::::::::...O.</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1458;0.1667" values="hidden;visible;hidden"/>
+<text x="244.8" y="120" textLength="33.6">:O::</text>
+<text x="219.6" y="135" textLength="92.4">::: :..::::</text>
+<text x="202.8" y="150" textLength="134.4">::    *   .. :::</text>
+<text x="169.2" y="165" textLength="201.6">::::       :    ... ::::</text>
+<text x="152.4" y="180" textLength="243.6">:::          :      ...   ::0</text>
+<text x="127.2" y="195" textLength="260.4">:::             :        .o :::</text>
+<text x="127.2" y="210" textLength="252.0">0:::            :      ...::::</text>
+<text x="144.0" y="225" textLength="226.8">.:::::        :    .*:::  :</text>
+<text x="160.8" y="240" textLength="218.4">..o::::*     :  .::   :: .</text>
+<text x="186.0" y="255" textLength="201.6">....::::  :*::     :   .</text>
+<text x="211.2" y="270" textLength="184.8">... .:*@:..   ::     .</text>
+<text x="236.4" y="285" textLength="168.0">..::*: ...:*..     .</text>
+<text x="236.4" y="300" textLength="176.4">::...o   :    .......</text>
+<text x="228.0" y="315" textLength="184.8">::    :. ::         .O</text>
+<text x="211.2" y="330" textLength="184.8">::       *::         .</text>
+<text x="202.8" y="345" textLength="184.8">*       ::0         ..</text>
+<text x="186.0" y="360" textLength="184.8">::   ::::::  .      ..</text>
+<text x="169.2" y="375" textLength="184.8">:::::::        .     .</text>
+<text x="160.8" y="390" textLength="184.8">0:::::::         .  ..</text>
+<text x="219.6" y="405" textLength="109.2">::::::::...O.</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1667;0.1875" values="hidden;visible;hidden"/>
+<text x="253.2" y="120" textLength="25.2">:O:</text>
+<text x="219.6" y="135" textLength="92.4">:::: *.::::</text>
+<text x="202.8" y="150" textLength="134.4">:::    :   .::::</text>
+<text x="169.2" y="165" textLength="193.2">::::       :     ...:::</text>
+<text x="152.4" y="180" textLength="235.2">:::          :       ... ::0</text>
+<text x="127.2" y="195" textLength="252.0">O::             :         .o::</text>
+<text x="135.6" y="210" textLength="235.2">::::            :       ::::</text>
+<text x="160.8" y="225" textLength="218.4">.::::        :     :*::: .</text>
+<text x="177.6" y="240" textLength="210.0">..o:*:     :  .::  :   ..</text>
+<text x="202.8" y="255" textLength="193.2">...:::: ::*:   :     ..</text>
+<text x="228.0" y="270" textLength="168.0">.. *:@:.. ::       .</text>
+<text x="244.8" y="285" textLength="159.6">::::. .::..*      .</text>
+<text x="228.0" y="300" textLength="184.8">:::  :*.:    ......  .</text>
+<text x="211.2" y="315" textLength="210.0">:::   : :o           ...O</text>
+<text x="202.8" y="330" textLength="210.0">::     :::..           ..</text>
+<text x="186.0" y="345" textLength="210.0">*:    :::0: *.        ...</text>
+<text x="169.2" y="360" textLength="210.0">:: ::::::     ..      ...</text>
+<text x="152.4" y="375" textLength="210.0">O::::            .    ...</text>
+<text x="169.2" y="390" textLength="176.4">::::::::       .. ...</text>
+<text x="228.0" y="405" textLength="100.8">:::::::.....</text>
+<text x="295.2" y="420" textLength="16.8">.O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.1875;0.2083" values="hidden;visible;hidden"/>
+<text x="261.6" y="120" textLength="25.2">:O:</text>
+<text x="228.0" y="135" textLength="84.0">:::: . :::</text>
+<text x="194.4" y="150" textLength="142.8">:::::    .   .:::</text>
+<text x="169.2" y="165" textLength="176.4">::::        .     .::</text>
+<text x="144.0" y="180" textLength="226.8">::::           .       .:::</text>
+<text x="135.6" y="195" textLength="243.6">O::             .         ::0</text>
+<text x="152.4" y="210" textLength="226.8">:::           .       :::..</text>
+<text x="177.6" y="225" textLength="210.0">:::        .     :::*   .</text>
+<text x="202.8" y="240" textLength="193.2">o:::    .  :::::      .</text>
+<text x="219.6" y="255" textLength="176.4">.:::* .::*.:        .</text>
+<text x="236.4" y="270" textLength="168.0">...:@::::          .</text>
+<text x="244.8" y="285" textLength="168.0">:::.::::::        ..</text>
+<text x="228.0" y="300" textLength="184.8">:::::::*.   ::*::    .</text>
+<text x="211.2" y="315" textLength="210.0">::  ::: . o       :::::::</text>
+<text x="194.4" y="330" textLength="226.8">::   ::   . .            :O</text>
+<text x="169.2" y="345" textLength="235.2">:*: ::::0    ...          ::</text>
+<text x="152.4" y="360" textLength="235.2">:::::::         *.       :::</text>
+<text x="144.0" y="375" textLength="226.8">O:::::           ..     :::</text>
+<text x="194.4" y="390" textLength="151.2">:::::      ..  .::</text>
+<text x="236.4" y="405" textLength="92.4">:::::. ....</text>
+<text x="286.8" y="420" textLength="25.2">.O.</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2083;0.2292" values="hidden;visible;hidden"/>
+<text x="261.6" y="120" textLength="33.6">::O:</text>
+<text x="236.4" y="135" textLength="75.6">:::  ::::</text>
+<text x="202.8" y="150" textLength="126.0">::::     :  :::</text>
+<text x="169.2" y="165" textLength="176.4">:::::        :    :::</text>
+<text x="144.0" y="180" textLength="226.8">::::            :      :::.</text>
+<text x="144.0" y="195" textLength="243.6">O::             :       :0 ..</text>
+<text x="169.2" y="210" textLength="226.8">:::         :      ::  *..O</text>
+<text x="186.0" y="225" textLength="210.0">::*.      :    :::...   .</text>
+<text x="211.2" y="240" textLength="193.2">:o:.   :  :::..      ..</text>
+<text x="236.4" y="255" textLength="168.0">::*.:::*..         .</text>
+<text x="253.2" y="270" textLength="151.2">.:@::            .</text>
+<text x="244.8" y="285" textLength="168.0">::::.::::         .:</text>
+<text x="219.6" y="300" textLength="193.2">::::: .  *. ::::      :</text>
+<text x="202.8" y="315" textLength="210.0">:::::    .  .o    *::   :</text>
+<text x="177.6" y="330" textLength="243.6">::: ::      .  .        :::::</text>
+<text x="152.4" y="345" textLength="268.8">:*::::0        .  .          ::O</text>
+<text x="144.0" y="360" textLength="252.0">O::             * .        :::</text>
+<text x="169.2" y="375" textLength="201.6">:::::        . .     :::</text>
+<text x="202.8" y="390" textLength="151.2">:::::     ..   :::</text>
+<text x="236.4" y="405" textLength="92.4">:::.  . :::</text>
+<text x="270.0" y="420" textLength="33.6">..O:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2292;0.2500" values="hidden;visible;hidden"/>
+<text x="270.0" y="120" textLength="33.6">::O:</text>
+<text x="236.4" y="135" textLength="84.0">...:  :::.</text>
+<text x="211.2" y="150" textLength="126.0">...      :  :..</text>
+<text x="177.6" y="165" textLength="176.4">....        :    : ..</text>
+<text x="152.4" y="180" textLength="226.8">O..            :     :: ...</text>
+<text x="152.4" y="195" textLength="243.6">....           :      0   ...</text>
+<text x="177.6" y="210" textLength="226.8">.....       :    ::     *.O</text>
+<text x="194.4" y="225" textLength="210.0">*....o    :  :::   ...  .</text>
+<text x="219.6" y="240" textLength="184.8">....  :::*: ....     .</text>
+<text x="244.8" y="255" textLength="159.6">.*:*::...         .</text>
+<text x="244.8" y="270" textLength="168.0">:::@:              :</text>
+<text x="228.0" y="285" textLength="184.8">::::*..::::          :</text>
+<text x="211.2" y="300" textLength="201.6">::::   .  ..*::        :</text>
+<text x="186.0" y="315" textLength="226.8">.:::      .    .o :::*    :</text>
+<text x="169.2" y="330" textLength="243.6">.0::        .    .     :::: :</text>
+<text x="144.0" y="345" textLength="277.2">O*::            .  .          ::O</text>
+<text x="152.4" y="360" textLength="260.4">....           .  .        ::::</text>
+<text x="186.0" y="375" textLength="201.6">...        * .      ::::</text>
+<text x="211.2" y="390" textLength="142.8">....    ..   ::::</text>
+<text x="236.4" y="405" textLength="92.4">.... ..::::</text>
+<text x="270.0" y="420" textLength="25.2">.O:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2500;0.2708" values="hidden;visible;hidden"/>
+<text x="278.4" y="120" textLength="33.6">::O:</text>
+<text x="244.8" y="135" textLength="84.0">...:  ::::</text>
+<text x="211.2" y="150" textLength="134.4">.....    : : ...</text>
+<text x="177.6" y="165" textLength="184.8">.....        :  :  ...</text>
+<text x="160.8" y="180" textLength="218.4">O..            :  ::    ..</text>
+<text x="169.2" y="195" textLength="226.8">....          :   0      ..</text>
+<text x="194.4" y="210" textLength="218.4">*...      :  :::        .O</text>
+<text x="211.2" y="225" textLength="201.6">.....o  ::::      ....*.</text>
+<text x="228.0" y="240" textLength="184.8">....:*: *   ....     :</text>
+<text x="244.8" y="255" textLength="168.0">::*:::....         :</text>
+<text x="228.0" y="270" textLength="184.8">::  :@:.             :</text>
+<text x="202.8" y="285" textLength="210.0">::::::* ::::.           :</text>
+<text x="186.0" y="300" textLength="226.8">::::::    :   :::         :</text>
+<text x="169.2" y="315" textLength="243.6">::::.       :     *o:       :</text>
+<text x="152.4" y="330" textLength="260.4">:0:           :     .  ::*    :</text>
+<text x="144.0" y="345" textLength="268.8">O*.            :    .      ::: :</text>
+<text x="169.2" y="360" textLength="243.6">...         :   .         ::0</text>
+<text x="186.0" y="375" textLength="210.0">....      :  .      :::::</text>
+<text x="219.6" y="390" textLength="142.8">..    * ..   ::::</text>
+<text x="236.4" y="405" textLength="92.4">... :. ::::</text>
+<text x="261.6" y="420" textLength="33.6">.O::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2708;0.2917" values="hidden;visible;hidden"/>
+<text x="286.8" y="120" textLength="33.6">::O:</text>
+<text x="253.2" y="135" textLength="84.0">...: :::::</text>
+<text x="219.6" y="150" textLength="134.4">....     ::  :::</text>
+<text x="177.6" y="165" textLength="193.2">.....         ::    :::</text>
+<text x="169.2" y="180" textLength="218.4">O..           : :      :::</text>
+<text x="186.0" y="195" textLength="210.0">.*..        ::0        ::</text>
+<text x="202.8" y="210" textLength="210.0">.....    ::::          ::</text>
+<text x="211.2" y="225" textLength="210.0">... ..o:: :         ::::O</text>
+<text x="228.0" y="240" textLength="193.2">..:: .**     ::::::   :</text>
+<text x="219.6" y="255" textLength="201.6">:::...*:.:::::        ::</text>
+<text x="194.4" y="270" textLength="218.4">:::    ::@::.            :</text>
+<text x="177.6" y="285" textLength="235.2">::: :::*:. .:::..          :</text>
+<text x="160.8" y="300" textLength="252.0">:::::::.     .  :::.         :</text>
+<text x="144.0" y="315" textLength="260.4">0:::...        .     :*       :</text>
+<text x="144.0" y="330" textLength="260.4">:O.            .      .o:     :</text>
+<text x="160.8" y="345" textLength="243.6">...         .     ..   :*   :</text>
+<text x="177.6" y="360" textLength="226.8">...       .    ..      ::::</text>
+<text x="194.4" y="375" textLength="201.6">...     .   .       :::0</text>
+<text x="219.6" y="390" textLength="151.2">..   *  .    :::::</text>
+<text x="236.4" y="405" textLength="92.4">......:::::</text>
+<text x="253.2" y="420" textLength="42.0">.O:::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.2917;0.3125" values="hidden;visible;hidden"/>
+<text x="303.6" y="120" textLength="25.2">:O:</text>
+<text x="261.6" y="135" textLength="84.0">...:::::::</text>
+<text x="219.6" y="150" textLength="134.4">.....     :   ::</text>
+<text x="186.0" y="165" textLength="184.8">.....        ::    :::</text>
+<text x="186.0" y="180" textLength="201.6">o..         ::       :::</text>
+<text x="202.8" y="195" textLength="201.6">*...      0:         :::</text>
+<text x="211.2" y="210" textLength="210.0">.. ...::::            :::</text>
+<text x="228.0" y="225" textLength="201.6">.:::..o:             ::O</text>
+<text x="219.6" y="240" textLength="210.0">:::.   *.       :::::: ::</text>
+<text x="194.4" y="255" textLength="226.8">:::    ..:: :::::::       :</text>
+<text x="177.6" y="270" textLength="243.6">::      ::*@*::.           ::</text>
+<text x="152.4" y="285" textLength="260.4">:::  ::::*::  .::: ..         :</text>
+<text x="135.6" y="300" textLength="277.2">:::::::...      .  ::...       ::</text>
+<text x="127.2" y="315" textLength="277.2">0::o....        .    :::..      :</text>
+<text x="160.8" y="330" textLength="243.6">..          .      :::o    ::</text>
+<text x="169.2" y="345" textLength="226.8">...        .      ..::    :</text>
+<text x="186.0" y="360" textLength="201.6">..       .    ...   :* :</text>
+<text x="202.8" y="375" textLength="184.8">..     .  ...       :0</text>
+<text x="219.6" y="390" textLength="159.6">..  .  ..    ::::::</text>
+<text x="228.0" y="405" textLength="100.8">...*..::::::</text>
+<text x="244.8" y="420" textLength="42.0">.O:::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3125;0.3333" values="hidden;visible;hidden"/>
+<text x="303.6" y="120" textLength="25.2">::O</text>
+<text x="270.0" y="135" textLength="75.6">..:::: ::</text>
+<text x="228.0" y="150" textLength="134.4">.....   :::  :::</text>
+<text x="194.4" y="165" textLength="184.8">o...       : :     :::</text>
+<text x="202.8" y="180" textLength="184.8">*..      : :        ::</text>
+<text x="211.2" y="195" textLength="193.2">..... 0:  :         :::</text>
+<text x="219.6" y="210" textLength="201.6">.. :::. :            :::</text>
+<text x="219.6" y="225" textLength="210.0">:::   *.*o             ::</text>
+<text x="194.4" y="240" textLength="243.6">:::   .  ::* .       :::::::O</text>
+<text x="177.6" y="255" textLength="252.0">:::      ..::  ::::::::      :</text>
+<text x="152.4" y="270" textLength="268.8">:::      :::*:@:*: .           :</text>
+<text x="127.2" y="285" textLength="285.6">::::::::::*::..  .::.  ..        :</text>
+<text x="118.8" y="300" textLength="294.0">0::::   ....     .   :.. ..      ::</text>
+<text x="144.0" y="315" textLength="260.4">..o..         .    : ....    ::</text>
+<text x="169.2" y="330" textLength="226.8">..         .     :: ..o   :</text>
+<text x="186.0" y="345" textLength="201.6">.       ..      ::..   :</text>
+<text x="194.4" y="360" textLength="184.8">..     .      ...:   :</text>
+<text x="202.8" y="375" textLength="176.4">..    .    ..    :*::</text>
+<text x="219.6" y="390" textLength="151.2">..  . ...     :::0</text>
+<text x="236.4" y="405" textLength="100.8">.*..::::::::</text>
+<text x="244.8" y="420" textLength="25.2">O::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3333;0.3542" values="hidden;visible;hidden"/>
+<text x="312.0" y="120" textLength="25.2">::O</text>
+<text x="278.4" y="135" textLength="67.2">..::::::</text>
+<text x="244.8" y="150" textLength="117.6">....  :::   ::</text>
+<text x="211.2" y="165" textLength="159.6">o...    :: ::    ::</text>
+<text x="211.2" y="180" textLength="176.4">*...  ::   :       ::</text>
+<text x="228.0" y="195" textLength="168.0">.:0:    :          :</text>
+<text x="219.6" y="210" textLength="193.2">::.::....*           ::</text>
+<text x="202.8" y="225" textLength="226.8">:::  .*   :..            ::</text>
+<text x="177.6" y="240" textLength="260.4">:::     .:: : *.o          :::0</text>
+<text x="152.4" y="255" textLength="277.2">:::          :::.  :::::::::::  :</text>
+<text x="135.6" y="270" textLength="285.6">:::      :::::::@::*:: .         :</text>
+<text x="110.4" y="285" textLength="302.4">0::::::::::*....* ..*..   ..       :</text>
+<text x="118.8" y="300" textLength="285.6">:::...o.....     .  : ..  .      :</text>
+<text x="177.6" y="315" textLength="218.4">.         .   :  ....    :</text>
+<text x="177.6" y="330" textLength="210.0">..       .     :    ..  :</text>
+<text x="194.4" y="345" textLength="184.8">.      .      :   ..o:</text>
+<text x="202.8" y="360" textLength="168.0">.    ..      .:..  :</text>
+<text x="211.2" y="375" textLength="151.2">..  .     ...::  :</text>
+<text x="219.6" y="390" textLength="134.4">.  .  ...     0:</text>
+<text x="228.0" y="405" textLength="117.6">...:::::::::::</text>
+<text x="236.4" y="420" textLength="16.8">O:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3542;0.3750" values="hidden;visible;hidden"/>
+<text x="328.8" y="120" textLength="8.4">O</text>
+<text x="286.8" y="135" textLength="67.2">..::::::</text>
+<text x="253.2" y="150" textLength="109.2">...:::  :  ::</text>
+<text x="219.6" y="165" textLength="151.2">o... :::   :    ::</text>
+<text x="228.0" y="180" textLength="159.6">.:::     :       ::</text>
+<text x="219.6" y="195" textLength="176.4">0:: ...  *:         :</text>
+<text x="194.4" y="210" textLength="218.4">::: :*.   ..:           ::</text>
+<text x="177.6" y="225" textLength="243.6">:::    ::    : ...         ::</text>
+<text x="160.8" y="240" textLength="268.8">:::        :  :   *o.         ::</text>
+<text x="135.6" y="255" textLength="302.4">:::            :::...  ::::::::::::0</text>
+<text x="118.8" y="270" textLength="302.4">::: ::::*:::::::::@::::*: .        :</text>
+<text x="110.4" y="285" textLength="302.4">0:::::     .....* .*:*.    ..      :</text>
+<text x="152.4" y="300" textLength="252.0">...o...      . : ...   .    ::</text>
+<text x="186.0" y="315" textLength="210.0">.       ..  :   ..  .  ::</text>
+<text x="194.4" y="330" textLength="184.8">.      .   ::    ....:</text>
+<text x="194.4" y="345" textLength="176.4">..     .    :      :o</text>
+<text x="202.8" y="360" textLength="159.6">..   .      :  ..::</text>
+<text x="211.2" y="375" textLength="134.4">.   .     ..:. :</text>
+<text x="219.6" y="390" textLength="117.6">. .  ....  :::</text>
+<text x="228.0" y="405" textLength="100.8">O.:::::::::0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3750;0.3958" values="hidden;visible;hidden"/>
+<text x="328.8" y="120" textLength="16.8">:O</text>
+<text x="295.2" y="135" textLength="58.8">.:::: :</text>
+<text x="261.6" y="150" textLength="100.8">..:::  ::  :</text>
+<text x="236.4" y="165" textLength="134.4">o::::     :   ::</text>
+<text x="219.6" y="180" textLength="159.6">::::..     :      :</text>
+<text x="202.8" y="195" textLength="193.2">0::  .  ... *        ::</text>
+<text x="177.6" y="210" textLength="226.8">:::  *  ..   .:.         ::</text>
+<text x="160.8" y="225" textLength="252.0">::      :: ..  :: ...        :</text>
+<text x="144.0" y="240" textLength="277.2">::         :: .  :   .*o       ::</text>
+<text x="118.8" y="255" textLength="310.8">:::             ::.: .... ..  ::::::0</text>
+<text x="110.4" y="270" textLength="319.2">O:::::::*::::::::::@:::::*:::::     ::</text>
+<text x="135.6" y="285" textLength="277.2">......  .....* **..*      .    ::</text>
+<text x="186.0" y="300" textLength="210.0">o.       . : ...    .   :</text>
+<text x="194.4" y="315" textLength="193.2">.      .  :    ..  . ::</text>
+<text x="194.4" y="330" textLength="176.4">..     .  :      ..::</text>
+<text x="202.8" y="345" textLength="168.0">..   .   ::      ::.</text>
+<text x="211.2" y="360" textLength="168.0">.   .    :    ::...o</text>
+<text x="211.2" y="375" textLength="126.0">.. .     :...:.</text>
+<text x="219.6" y="390" textLength="100.8">..  .....:::</text>
+<text x="219.6" y="405" textLength="92.4">.O:::::::0:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3958;0.4167" values="hidden;visible;hidden"/>
+<text x="337.2" y="120" textLength="8.4">O</text>
+<text x="303.6" y="135" textLength="50.4">::::::</text>
+<text x="270.0" y="150" textLength="92.4">:::::  :  :</text>
+<text x="236.4" y="165" textLength="134.4">::o::     :    :</text>
+<text x="202.8" y="180" textLength="176.4">::::: ....   *:    ::</text>
+<text x="177.6" y="195" textLength="210.0">:0::     .   ..:        :</text>
+<text x="160.8" y="210" textLength="235.2">::   *:     .   ::.        :</text>
+<text x="144.0" y="225" textLength="260.4">:::      ::   .  ::  ...     ::</text>
+<text x="127.2" y="240" textLength="285.6">:::          :: .  :     .*o     :</text>
+<text x="110.4" y="255" textLength="310.8">O::             :::*: ...... .     ::</text>
+<text x="118.8" y="270" textLength="302.4">::::::*:::::::::::@:::::*::::::::::0</text>
+<text x="160.8" y="285" textLength="243.6">.....o....* .*...      ..   :</text>
+<text x="202.8" y="300" textLength="193.2">.      *:  .*.     . ::</text>
+<text x="202.8" y="315" textLength="176.4">.     . :    ...   ::</text>
+<text x="202.8" y="330" textLength="168.0">.    .  :      ..::.</text>
+<text x="211.2" y="345" textLength="168.0">.   .  :      ::....</text>
+<text x="211.2" y="360" textLength="168.0">.  .   :    ::   ..O</text>
+<text x="211.2" y="375" textLength="142.8">. .    :  :::....</text>
+<text x="219.6" y="390" textLength="84.0">.. ...::::</text>
+<text x="219.6" y="405" textLength="67.2">O:::::0:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4167;0.4375" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="50.4">:::::0</text>
+<text x="261.6" y="150" textLength="100.8">::::::  :: :</text>
+<text x="228.0" y="165" textLength="142.8">::::o..    :    :</text>
+<text x="177.6" y="180" textLength="201.6">::::::    ..... :*    ::</text>
+<text x="169.2" y="195" textLength="210.0">:0*         .  ..:      :</text>
+<text x="152.4" y="210" textLength="235.2">::   ::       .   :...     :</text>
+<text x="144.0" y="225" textLength="252.0">::      :::    . ::   ...    :</text>
+<text x="127.2" y="240" textLength="277.2">::          :::  . :      ..o  ::</text>
+<text x="118.8" y="255" textLength="285.6">O:::::*:::     :::*:  .......*   :</text>
+<text x="144.0" y="270" textLength="268.8">...... ::::::::@::::::*::::::::0</text>
+<text x="186.0" y="285" textLength="218.4">...o...* .:...        . ::</text>
+<text x="211.2" y="300" textLength="176.4">.    **   .*       ::</text>
+<text x="211.2" y="315" textLength="168.0">.    .:     ..   ::.</text>
+<text x="211.2" y="330" textLength="168.0">.   . :       .::  .</text>
+<text x="211.2" y="345" textLength="168.0">.  ..::     ::: .  .</text>
+<text x="211.2" y="360" textLength="168.0">.  . :    ::     ...</text>
+<text x="211.2" y="375" textLength="168.0">...  :  :: ........O</text>
+<text x="219.6" y="390" textLength="84.0">...::::...</text>
+<text x="219.6" y="405" textLength="42.0">O::0:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4375;0.4583" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="50.4">:::::0</text>
+<text x="261.6" y="150" textLength="100.8">::::::..:: :</text>
+<text x="211.2" y="165" textLength="151.2">::::::  o.   *:  :</text>
+<text x="160.8" y="180" textLength="210.0">0:::::        ....::    :</text>
+<text x="160.8" y="195" textLength="210.0">:*:           .  .:.    :</text>
+<text x="152.4" y="210" textLength="226.8">:   :::        .  : ...   :</text>
+<text x="135.6" y="225" textLength="243.6">::       ::     ..::    ... :</text>
+<text x="127.2" y="240" textLength="260.4">O:          ::   * :        ..:</text>
+<text x="135.6" y="255" textLength="252.0">...*.......  :::.:    .......o</text>
+<text x="169.2" y="270" textLength="226.8">...... ..*.:@::::::*:    .:</text>
+<text x="211.2" y="285" textLength="184.8">.o..  ::..      :::::0</text>
+<text x="219.6" y="300" textLength="159.6">.   *:   ..     :::</text>
+<text x="219.6" y="315" textLength="159.6">.  .*      *  ::: .</text>
+<text x="219.6" y="330" textLength="159.6">. .::      :::    .</text>
+<text x="219.6" y="345" textLength="159.6">. .:     :::  .   .</text>
+<text x="219.6" y="360" textLength="159.6">..:   :::      .. .</text>
+<text x="211.2" y="375" textLength="168.0">..:  ::       .....O</text>
+<text x="211.2" y="390" textLength="117.6">O.:::.........</text>
+<text x="219.6" y="405" textLength="16.8">0:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4583;0.4792" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="50.4">:::::0</text>
+<text x="244.8" y="150" textLength="117.6">::::::: ..:: :</text>
+<text x="194.4" y="165" textLength="168.0">:::::::     o.  *  :</text>
+<text x="152.4" y="180" textLength="210.0">0::::           ....:   :</text>
+<text x="152.4" y="195" textLength="210.0">: ::            .  :..  :</text>
+<text x="144.0" y="210" textLength="226.8">:    :::         . :   .. :</text>
+<text x="135.6" y="225" textLength="235.2">.:      :::      . :      .:</text>
+<text x="135.6" y="240" textLength="252.0">O..*.      ::    *:        :..</text>
+<text x="160.8" y="255" textLength="235.2">..........:::.:       ..::.o</text>
+<text x="194.4" y="270" textLength="201.6">..... .*:@*:::....   : .</text>
+<text x="228.0" y="285" textLength="168.0">.o. : ..  ::*::::0 .</text>
+<text x="228.0" y="300" textLength="159.6">.  :    .     ::: .</text>
+<text x="228.0" y="315" textLength="159.6">. *.     ..:::    .</text>
+<text x="228.0" y="330" textLength="159.6">.:.      ::*     ..</text>
+<text x="219.6" y="345" textLength="159.6">.:.   ::::   ..   .</text>
+<text x="219.6" y="360" textLength="159.6">:.  :::       ..  .</text>
+<text x="211.2" y="375" textLength="168.0">:::::            ...</text>
+<text x="202.8" y="390" textLength="168.0">0O:................O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4792;0.5000" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="50.4">:::::0</text>
+<text x="236.4" y="150" textLength="117.6">::::::::: .:*:</text>
+<text x="177.6" y="165" textLength="176.4">::::::::        o:: :</text>
+<text x="152.4" y="180" textLength="201.6">0::               . :  :</text>
+<text x="152.4" y="195" textLength="201.6">: ::             . : ..:</text>
+<text x="152.4" y="210" textLength="210.0">:   :::         ..:    :.</text>
+<text x="144.0" y="225" textLength="235.2">.      :::       .:     :...</text>
+<text x="144.0" y="240" textLength="252.0">o.*....   ::    .*      :  ...</text>
+<text x="177.6" y="255" textLength="226.8">........::*.:       :    ..</text>
+<text x="219.6" y="270" textLength="184.8">....*:@:*:.....:.....o</text>
+<text x="244.8" y="285" textLength="159.6">o:: :::::*:::    ..</text>
+<text x="244.8" y="300" textLength="151.2">:.    :   :::0   .</text>
+<text x="236.4" y="315" textLength="159.6">**.     :::      ..</text>
+<text x="219.6" y="330" textLength="168.0">::..   ::: ::      .</text>
+<text x="211.2" y="345" textLength="176.4">::.  :::     *:    ..</text>
+<text x="202.8" y="360" textLength="176.4">: ::::          :   .</text>
+<text x="186.0" y="375" textLength="184.8">:::::              : :</text>
+<text x="177.6" y="390" textLength="193.2">0::.o..............:::O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5000;0.5208" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="50.4">:::::0</text>
+<text x="228.0" y="150" textLength="126.0">::::::::::   *:</text>
+<text x="160.8" y="165" textLength="184.8">::::::::           o::</text>
+<text x="144.0" y="180" textLength="201.6">0::                 .:.:</text>
+<text x="152.4" y="195" textLength="201.6">: ::              ::  :.</text>
+<text x="152.4" y="210" textLength="218.4">.   ::           .:   : ..</text>
+<text x="160.8" y="225" textLength="218.4">o*   :::        *   ::  ..</text>
+<text x="169.2" y="240" textLength="226.8">...... ::     :    :     ..</text>
+<text x="202.8" y="255" textLength="201.6">.....:*: :     :       .</text>
+<text x="236.4" y="270" textLength="184.8">...*@:.*...:.........O</text>
+<text x="244.8" y="285" textLength="168.0">::o :::*: :        .</text>
+<text x="236.4" y="300" textLength="168.0">::.   :: ::0       .</text>
+<text x="219.6" y="315" textLength="184.8">*::.   ::::         ..</text>
+<text x="202.8" y="330" textLength="193.2">::: .*::::  ::       ..</text>
+<text x="194.4" y="345" textLength="193.2">:: ::::       :*      .</text>
+<text x="177.6" y="360" textLength="201.6">::::::            :    :</text>
+<text x="160.8" y="375" textLength="210.0">0:::..o...           :  :</text>
+<text x="236.4" y="390" textLength="134.4">..........:  :::</text>
+<text x="328.8" y="405" textLength="33.6">:::O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5208;0.5417" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="42.0">::::0</text>
+<text x="219.6" y="150" textLength="126.0">::::::::::   ::</text>
+<text x="144.0" y="165" textLength="201.6">0::::::::             :o</text>
+<text x="152.4" y="180" textLength="201.6">:::                :::..</text>
+<text x="152.4" y="195" textLength="210.0">:.:::              :.:  .</text>
+<text x="160.8" y="210" textLength="218.4">.. :::           :.:    ..</text>
+<text x="169.2" y="225" textLength="218.4">o.. :::       ::* :     ..</text>
+<text x="194.4" y="240" textLength="201.6">....::     :. :        .</text>
+<text x="219.6" y="255" textLength="184.8">...*:: :   :         .</text>
+<text x="244.8" y="270" textLength="176.4">..:@:..:*.......   ..</text>
+<text x="244.8" y="285" textLength="176.4">:::.o: :        ....O</text>
+<text x="228.0" y="300" textLength="184.8">:::..  *0            .</text>
+<text x="211.2" y="315" textLength="193.2">::  .:::: :           :</text>
+<text x="194.4" y="330" textLength="201.6">:*  :*:      :         :</text>
+<text x="177.6" y="345" textLength="210.0">::::::..        :       :</text>
+<text x="152.4" y="360" textLength="226.8">:::::   ..         :*     :</text>
+<text x="152.4" y="375" textLength="218.4">0:::...o...         ::   :</text>
+<text x="244.8" y="390" textLength="117.6">.......    : :</text>
+<text x="303.6" y="405" textLength="50.4">:::::O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5417;0.5625" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="42.0">::::0</text>
+<text x="211.2" y="150" textLength="142.8">:::::::::::   :::</text>
+<text x="144.0" y="165" textLength="210.0">0:::::::             :  o</text>
+<text x="152.4" y="180" textLength="210.0">:::                :: ...</text>
+<text x="160.8" y="195" textLength="210.0">..::              : ..  .</text>
+<text x="177.6" y="210" textLength="210.0">. ::          ::*.     ..</text>
+<text x="186.0" y="225" textLength="201.6">o..:::      :::.       .</text>
+<text x="211.2" y="240" textLength="193.2">..:*:    ::          ..</text>
+<text x="236.4" y="255" textLength="176.4">.::: ::            ..</text>
+<text x="261.6" y="270" textLength="159.6">*@:::::*          .</text>
+<text x="244.8" y="285" textLength="184.8">:::::o    :::::::::::O</text>
+<text x="219.6" y="300" textLength="201.6">::: .:0.:              :</text>
+<text x="202.8" y="315" textLength="210.0">:: :::::  ::           ::</text>
+<text x="177.6" y="330" textLength="226.8">::*::: *.     :          ::</text>
+<text x="152.4" y="345" textLength="235.2">:::::    ..       :        :</text>
+<text x="135.6" y="360" textLength="252.0">0::::.... ..         :      ::</text>
+<text x="202.8" y="375" textLength="168.0">.o....       :*    :</text>
+<text x="253.2" y="390" textLength="109.2">.....   :: ::</text>
+<text x="286.8" y="405" textLength="67.2">.:::::::</text>
+<text x="328.8" y="420" textLength="16.8">:O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5625;0.5833" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="33.6">:::0</text>
+<text x="194.4" y="150" textLength="159.6">:::::::::::::  ::::</text>
+<text x="152.4" y="165" textLength="210.0">O::::              ::   :</text>
+<text x="160.8" y="180" textLength="210.0">:::              ::    .O</text>
+<text x="177.6" y="195" textLength="201.6">.::           ::   ..  .</text>
+<text x="186.0" y="210" textLength="201.6">..o:        ::: .*     .</text>
+<text x="202.8" y="225" textLength="193.2">..::      ::...       .</text>
+<text x="228.0" y="240" textLength="176.4">*::  :::..          .</text>
+<text x="244.8" y="255" textLength="168.0">::::*.             :</text>
+<text x="261.6" y="270" textLength="159.6">*@:::::           :</text>
+<text x="228.0" y="285" textLength="201.6">:::::::.*o::*:::::::  ::</text>
+<text x="211.2" y="300" textLength="218.4">::::0.  :.           ::::O</text>
+<text x="177.6" y="315" textLength="243.6">*:::::: ....::             ::</text>
+<text x="152.4" y="330" textLength="260.4">::::::    *..   ::           ::</text>
+<text x="127.2" y="345" textLength="268.8">O::::       ..      :         ::</text>
+<text x="144.0" y="360" textLength="243.6">:::......o.       ::       ::</text>
+<text x="219.6" y="375" textLength="151.2">....      :      :</text>
+<text x="253.2" y="390" textLength="109.2">...   :*   ::</text>
+<text x="278.4" y="405" textLength="67.2">.:: ::::</text>
+<text x="303.6" y="420" textLength="33.6">::O:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5833;0.6042" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="25.2">::0</text>
+<text x="169.2" y="150" textLength="184.8">:::::::::::::::: :::::</text>
+<text x="152.4" y="165" textLength="218.4">O::               ::   ::.</text>
+<text x="169.2" y="180" textLength="218.4">:::           :::      .O.</text>
+<text x="186.0" y="195" textLength="201.6">:::         : :    ..  .</text>
+<text x="202.8" y="210" textLength="193.2">:o:      : :   .*     .</text>
+<text x="219.6" y="225" textLength="184.8">*:.. :: :  ..        .</text>
+<text x="228.0" y="240" textLength="176.4">::::: ::...         :</text>
+<text x="244.8" y="255" textLength="168.0">::*:*..            :</text>
+<text x="228.0" y="270" textLength="193.2">::  :@:::.            :</text>
+<text x="219.6" y="285" textLength="210.0">:::::.:: .:o::*::      ::</text>
+<text x="194.4" y="300" textLength="235.2">::0*:  .  :..       ::::::::</text>
+<text x="169.2" y="315" textLength="260.4">*:::     .  .:               :O</text>
+<text x="135.6" y="330" textLength="285.6">::::        ....  :            :::</text>
+<text x="127.2" y="345" textLength="277.2">O:::....    .*.    :          :::</text>
+<text x="186.0" y="360" textLength="201.6">....o.      :         ::</text>
+<text x="236.4" y="375" textLength="134.4">...    :      ::</text>
+<text x="253.2" y="390" textLength="100.8">...  ::   ::</text>
+<text x="270.0" y="405" textLength="75.6">.:: * :::</text>
+<text x="286.8" y="420" textLength="42.0">::0::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6042;0.6250" values="hidden;visible;hidden"/>
+<text x="303.6" y="135" textLength="16.8">:0</text>
+<text x="160.8" y="150" textLength="184.8">O:::::::::::::::::::::</text>
+<text x="169.2" y="165" textLength="210.0">::             ::    ::::</text>
+<text x="177.6" y="180" textLength="218.4">::.         :: :       :.O</text>
+<text x="194.4" y="195" textLength="201.6">::..    ::: :      ... .</text>
+<text x="211.2" y="210" textLength="193.2">:*o. ::  :     ..*    .</text>
+<text x="219.6" y="225" textLength="184.8">:::::   :   ...      :</text>
+<text x="236.4" y="240" textLength="176.4">::...*  ..          :</text>
+<text x="219.6" y="255" textLength="193.2">::  :*::..            :</text>
+<text x="202.8" y="270" textLength="218.4">::   :::@:::..           :</text>
+<text x="194.4" y="285" textLength="226.8">::::::: .:  :::o::        :</text>
+<text x="169.2" y="300" textLength="252.0">:::0::    . :  ...  :*:::::  :</text>
+<text x="144.0" y="315" textLength="285.6">::*::       ..  :..          ::::0</text>
+<text x="127.2" y="330" textLength="294.0">O:..          ....:              ::</text>
+<text x="160.8" y="345" textLength="252.0">....... .*.   :            :::</text>
+<text x="219.6" y="360" textLength="168.0">.o.    :          ::</text>
+<text x="236.4" y="375" textLength="134.4">..    :       ::</text>
+<text x="253.2" y="390" textLength="100.8">..  :    :::</text>
+<text x="261.6" y="405" textLength="67.2">.:::  ::</text>
+<text x="278.4" y="420" textLength="33.6">:*::</text>
+<text x="295.2" y="435" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6250;0.6458" values="hidden;visible;hidden"/>
+<text x="295.2" y="135" textLength="16.8">:0</text>
+<text x="169.2" y="150" textLength="176.4">O::::::::::::::::::::</text>
+<text x="177.6" y="165" textLength="201.6">::.         :::    :::::</text>
+<text x="186.0" y="180" textLength="218.4">::..      :  :        :::O</text>
+<text x="202.8" y="195" textLength="201.6">::... ::  :         ...:</text>
+<text x="211.2" y="210" textLength="193.2">:* :o.   :       ..*  :</text>
+<text x="219.6" y="225" textLength="184.8">:::....::    ...     :</text>
+<text x="211.2" y="240" textLength="201.6">::  :...*. ...         :</text>
+<text x="194.4" y="255" textLength="218.4">::     :*::...           :</text>
+<text x="177.6" y="270" textLength="235.2">::     :::*@*:. ..         :</text>
+<text x="169.2" y="285" textLength="252.0">0:::::::.. .:  ::::.o        :</text>
+<text x="144.0" y="300" textLength="277.2">:::.....     . :    ..:::*      :</text>
+<text x="127.2" y="315" textLength="294.0">O::*.         .  : ...      ::::: :</text>
+<text x="144.0" y="330" textLength="277.2">......     .. .:.             ::0</text>
+<text x="186.0" y="345" textLength="226.8">......*.. :             :::</text>
+<text x="228.0" y="360" textLength="168.0">o.   :           :::</text>
+<text x="244.8" y="375" textLength="126.0">.  :        :::</text>
+<text x="253.2" y="390" textLength="92.4">. :     :::</text>
+<text x="261.6" y="405" textLength="67.2">: :  :::</text>
+<text x="270.0" y="420" textLength="33.6">::::</text>
+<text x="278.4" y="435" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6458;0.6667" values="hidden;visible;hidden"/>
+<text x="295.2" y="135" textLength="8.4">0</text>
+<text x="177.6" y="150" textLength="159.6">O.:::::::::::::::::</text>
+<text x="186.0" y="165" textLength="184.8">...      ::::    :::::</text>
+<text x="202.8" y="180" textLength="201.6">.... :::  :        :::::</text>
+<text x="211.2" y="195" textLength="201.6">.* ::.  ::           *:O</text>
+<text x="219.6" y="210" textLength="193.2">::  .o :         :::  :</text>
+<text x="202.8" y="225" textLength="210.0">::: .  ..*      :::     :</text>
+<text x="186.0" y="240" textLength="226.8">:::    . .*:.. :::        :</text>
+<text x="169.2" y="255" textLength="243.6">:::       ..: :::.          :</text>
+<text x="152.4" y="270" textLength="260.4">:::   ::::::*:@*..  ..        :</text>
+<text x="144.0" y="285" textLength="268.8">:0:::::...... .* ::::....      :</text>
+<text x="135.6" y="300" textLength="277.2">:*.....       ..:    ::::o      :</text>
+<text x="135.6" y="315" textLength="277.2">O....         . :  ....  :*::   :</text>
+<text x="169.2" y="330" textLength="243.6">....     . ::..         :::::</text>
+<text x="202.8" y="345" textLength="210.0">....o..:              ::0</text>
+<text x="236.4" y="360" textLength="159.6">.  :           ::::</text>
+<text x="244.8" y="375" textLength="117.6">. :        :::</text>
+<text x="244.8" y="390" textLength="100.8">. :     ::::</text>
+<text x="253.2" y="405" textLength="67.2">::   :::</text>
+<text x="253.2" y="420" textLength="42.0">:::::</text>
+<text x="261.6" y="435" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6667;0.6875" values="hidden;visible;hidden"/>
+<text x="186.0" y="150" textLength="134.4">O.:::::::::0::::</text>
+<text x="202.8" y="165" textLength="159.6">...   :: :    :::::</text>
+<text x="202.8" y="180" textLength="193.2">.. .::   :         ::::</text>
+<text x="219.6" y="195" textLength="201.6">*: ... :             *:O</text>
+<text x="202.8" y="210" textLength="210.0">:: ..   .o          :::::</text>
+<text x="186.0" y="225" textLength="226.8">::    ..  :*..     :::    :</text>
+<text x="169.2" y="240" textLength="243.6">::       .. *  ..::::       :</text>
+<text x="152.4" y="255" textLength="260.4">::           .: ::::.         :</text>
+<text x="135.6" y="270" textLength="277.2">0::::::::::::*::@:*.   ..       :</text>
+<text x="135.6" y="285" textLength="277.2">:    ........  .* :::.....     ::</text>
+<text x="135.6" y="300" textLength="268.8">O*...          :     :::..o    :</text>
+<text x="152.4" y="315" textLength="252.0">.....       .:     ..:::     :</text>
+<text x="186.0" y="330" textLength="218.4">.....   .:.....     *::  :</text>
+<text x="219.6" y="345" textLength="184.8">...o::             ::0</text>
+<text x="244.8" y="360" textLength="151.2">.:            ::::</text>
+<text x="244.8" y="375" textLength="126.0">.:         ::::</text>
+<text x="244.8" y="390" textLength="92.4">.:     ::::</text>
+<text x="244.8" y="405" textLength="58.8">:   :::</text>
+<text x="244.8" y="420" textLength="33.6">::::</text>
+<text x="244.8" y="435" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6875;0.7083" values="hidden;visible;hidden"/>
+<text x="202.8" y="150" textLength="109.2">O.::::::0::::</text>
+<text x="211.2" y="165" textLength="142.8">...::  :    :::::</text>
+<text x="219.6" y="180" textLength="168.0">*:... :        :::::</text>
+<text x="202.8" y="195" textLength="218.4">:::.   .:.            :::O</text>
+<text x="186.0" y="210" textLength="235.2">:::   .   * o.         :::::</text>
+<text x="169.2" y="225" textLength="252.0">::       .  : . .    :::::  ::</text>
+<text x="152.4" y="240" textLength="260.4">::          . :*   .::::      :</text>
+<text x="127.2" y="255" textLength="285.6">:::             .:.::::..       ::</text>
+<text x="127.2" y="270" textLength="277.2">0::::::::::::*:::@:.     .      :</text>
+<text x="135.6" y="285" textLength="268.8">:o..........   ::::*.... ..    :</text>
+<text x="152.4" y="300" textLength="243.6">...          *   :::  ....o :</text>
+<text x="177.6" y="315" textLength="218.4">....     ::     :::...   :</text>
+<text x="202.8" y="330" textLength="184.8">....  :  ...... ::   :</text>
+<text x="236.4" y="345" textLength="151.2">..o..         *: :</text>
+<text x="244.8" y="360" textLength="142.8">:             ::0</text>
+<text x="244.8" y="375" textLength="117.6">:         ::::</text>
+<text x="236.4" y="390" textLength="92.4">:      ::::</text>
+<text x="236.4" y="405" textLength="58.8">:  ::::</text>
+<text x="228.0" y="420" textLength="33.6">O:::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7083;0.7292" values="hidden;visible;hidden"/>
+<text x="211.2" y="150" textLength="92.4">O:::::0::::</text>
+<text x="219.6" y="165" textLength="117.6">.*:..:   :::::</text>
+<text x="202.8" y="180" textLength="176.4">:::.  .:.       :::::</text>
+<text x="186.0" y="195" textLength="226.8">::    .  : ..         :::::</text>
+<text x="169.2" y="210" textLength="252.0">:::     .. *   .o          ::0</text>
+<text x="152.4" y="225" textLength="268.8">:::        ..::  ....   :::::  :</text>
+<text x="135.6" y="240" textLength="277.2">::            . : *   :::::     :</text>
+<text x="118.8" y="255" textLength="285.6">0::::::          .:. ::::..      :</text>
+<text x="127.2" y="270" textLength="277.2">::.  ::::::*::::*@*:      .    ::</text>
+<text x="152.4" y="285" textLength="243.6">o.......     :*::.*...  ..  :</text>
+<text x="169.2" y="300" textLength="218.4">....      *:   ::  ......:</text>
+<text x="194.4" y="315" textLength="193.2">...    :.    ::   ...:o</text>
+<text x="219.6" y="330" textLength="159.6">...::.  ....::.   :</text>
+<text x="244.8" y="345" textLength="126.0">:o....     *  :</text>
+<text x="236.4" y="360" textLength="134.4">:..          :::</text>
+<text x="236.4" y="375" textLength="126.0">:.        ::::0</text>
+<text x="228.0" y="390" textLength="92.4">:.    :::::</text>
+<text x="219.6" y="405" textLength="67.2">::::::::</text>
+<text x="211.2" y="420" textLength="25.2">O::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7292;0.7500" values="hidden;visible;hidden"/>
+<text x="244.8" y="135" textLength="8.4">0</text>
+<text x="228.0" y="150" textLength="58.8">O::::::</text>
+<text x="211.2" y="165" textLength="117.6">::* .:.  :::::</text>
+<text x="194.4" y="180" textLength="168.0">:::  . : ...   :::::</text>
+<text x="177.6" y="195" textLength="218.4">::      .*:  ...      ::::</text>
+<text x="152.4" y="210" textLength="268.8">:::        . :     .o        ::0</text>
+<text x="135.6" y="225" textLength="285.6">:::           .:    .. .    ::::::</text>
+<text x="118.8" y="240" textLength="294.0">:::              :  ..*  :::::    :</text>
+<text x="110.4" y="255" textLength="294.0">0::::::::::::     .:..::::  .     :</text>
+<text x="135.6" y="270" textLength="260.4">.... ....*::::*:@:*       .   :</text>
+<text x="160.8" y="285" textLength="226.8">o..         :*: ..*.    . :</text>
+<text x="186.0" y="300" textLength="193.2">...     : . :   ..... :</text>
+<text x="211.2" y="315" textLength="176.4">... :*.   ::     .:.o</text>
+<text x="236.4" y="330" textLength="142.8">::..    :.....:..</text>
+<text x="236.4" y="345" textLength="117.6">:  o.... ::  :</text>
+<text x="228.0" y="360" textLength="126.0">: ..       :*::</text>
+<text x="219.6" y="375" textLength="117.6">: ..       ::0</text>
+<text x="211.2" y="390" textLength="100.8">::.   ::::::</text>
+<text x="211.2" y="405" textLength="50.4">::::::</text>
+<text x="202.8" y="420" textLength="16.8">O:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7500;0.7708" values="hidden;visible;hidden"/>
+<text x="236.4" y="135" textLength="8.4">0</text>
+<text x="219.6" y="150" textLength="58.8">::O::::</text>
+<text x="194.4" y="165" textLength="117.6">:::   : ..::::</text>
+<text x="186.0" y="180" textLength="168.0">::     *   ... :::::</text>
+<text x="169.2" y="195" textLength="218.4">::        :     ..   :::::</text>
+<text x="144.0" y="210" textLength="268.8">:::          :       ..o    ::::</text>
+<text x="127.2" y="225" textLength="294.0">::             ::     *...    ::::0</text>
+<text x="110.4" y="240" textLength="302.4">0:::              :   ...  :::::  ::</text>
+<text x="127.2" y="255" textLength="277.2">:::::::::*:::   ::..*::::  .   ::</text>
+<text x="160.8" y="270" textLength="226.8">..o.....:::*:@::        . :</text>
+<text x="186.0" y="285" textLength="193.2">..       :*:....     ::</text>
+<text x="202.8" y="300" textLength="184.8">...   : .:    .*..:: .</text>
+<text x="228.0" y="315" textLength="168.0">..*  . :      :.....</text>
+<text x="236.4" y="330" textLength="159.6">:.... :   ..:.....O</text>
+<text x="228.0" y="345" textLength="117.6">:   .o..:...::</text>
+<text x="219.6" y="360" textLength="109.2">:  ...    : :</text>
+<text x="211.2" y="375" textLength="109.2">: ..      :0:</text>
+<text x="202.8" y="390" textLength="92.4">:.. :::::::</text>
+<text x="194.4" y="405" textLength="42.0">O::::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7708;0.7917" values="hidden;visible;hidden"/>
+<text x="228.0" y="135" textLength="25.2">0:.</text>
+<text x="211.2" y="150" textLength="58.8">::::o*:</text>
+<text x="186.0" y="165" textLength="117.6">:::   : .:::::</text>
+<text x="169.2" y="180" textLength="168.0">:::     * .    :::::</text>
+<text x="160.8" y="195" textLength="210.0">::        :..     ..:::::</text>
+<text x="135.6" y="210" textLength="260.4">:::           :.       ..o ::::</text>
+<text x="118.8" y="225" textLength="294.0">::              :.       *...   ::0</text>
+<text x="110.4" y="240" textLength="294.0">O:::::::          :    ...  :::::::</text>
+<text x="144.0" y="255" textLength="252.0">....::*:::::  :: .:*::::  . ::</text>
+<text x="177.6" y="270" textLength="201.6">.o......*::@:::        :</text>
+<text x="202.8" y="285" textLength="184.8">...    :: ...     :: .</text>
+<text x="219.6" y="300" textLength="168.0">...:: *    ...*:   .</text>
+<text x="236.4" y="315" textLength="159.6">::. :.     ::...  .</text>
+<text x="228.0" y="330" textLength="176.4">:* .. :    :     ...O</text>
+<text x="219.6" y="345" textLength="168.0">:     .o..::........</text>
+<text x="211.2" y="360" textLength="100.8">:   ... ::::</text>
+<text x="202.8" y="375" textLength="92.4">: ...   :0:</text>
+<text x="186.0" y="390" textLength="92.4">:::::::::::</text>
+<text x="186.0" y="405" textLength="16.8">O:</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.7917;0.8125" values="hidden;visible;hidden"/>
+<text x="219.6" y="135" textLength="50.4">0:::.o</text>
+<text x="202.8" y="150" textLength="84.0">:::::::...</text>
+<text x="186.0" y="165" textLength="117.6">::   *  ::::..</text>
+<text x="169.2" y="180" textLength="151.2">::      :  .  ::::</text>
+<text x="152.4" y="195" textLength="193.2">::        :  .      :::</text>
+<text x="135.6" y="210" textLength="243.6">::           :  .        ::::</text>
+<text x="118.8" y="225" textLength="285.6">O::             : .        *.o ::0</text>
+<text x="135.6" y="240" textLength="268.8">.:::::*       ::.    ....:::::::</text>
+<text x="169.2" y="255" textLength="218.4">...::::::: :: .::*::::  ::</text>
+<text x="202.8" y="270" textLength="184.8">o....*::@:::      :: .</text>
+<text x="219.6" y="285" textLength="168.0">..  ::* ...   ::   .</text>
+<text x="236.4" y="300" textLength="151.2">.: : *   ..::    .</text>
+<text x="228.0" y="315" textLength="168.0">:: .: .   :: .*.   .</text>
+<text x="219.6" y="330" textLength="184.8">:*   :.. ::     ......</text>
+<text x="211.2" y="345" textLength="193.2">::   ::.:o............O</text>
+<text x="202.8" y="360" textLength="75.6">:   ..:.:</text>
+<text x="186.0" y="375" textLength="84.0">::.....:0:</text>
+<text x="177.6" y="390" textLength="67.2">O:::::::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8125;0.8333" values="hidden;visible;hidden"/>
+<text x="211.2" y="135" textLength="67.2">0::::..o</text>
+<text x="194.4" y="150" textLength="100.8">:::::::  ...</text>
+<text x="177.6" y="165" textLength="134.4">::   *  ::::  ..</text>
+<text x="160.8" y="180" textLength="176.4">::      :    .::: ...</text>
+<text x="144.0" y="195" textLength="210.0">:::        :   .   ::: ..</text>
+<text x="127.2" y="210" textLength="243.6">:::          ::  .      :::..</text>
+<text x="127.2" y="225" textLength="260.4">O::::         :: .         :*:o</text>
+<text x="152.4" y="240" textLength="243.6">.::*:::     : .      ...::::0</text>
+<text x="194.4" y="255" textLength="193.2">..o:::: :*  ::*:::::::.</text>
+<text x="219.6" y="270" textLength="176.4">...*::@:::    :::  ..</text>
+<text x="228.0" y="285" textLength="168.0">....*:.:::  ::     .</text>
+<text x="244.8" y="300" textLength="151.2">..: *   :::      .</text>
+<text x="228.0" y="315" textLength="168.0">.. :... ::  :::    .</text>
+<text x="219.6" y="330" textLength="184.8">*  :  .::       *:: ..</text>
+<text x="202.8" y="345" textLength="201.6">..  :: ::.o........ :::.</text>
+<text x="186.0" y="360" textLength="218.4">..   ::::..          ....O</text>
+<text x="177.6" y="375" textLength="67.2">.:::::0:</text>
+<text x="169.2" y="390" textLength="25.2">O::</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8333;0.8542" values="hidden;visible;hidden"/>
+<text x="202.8" y="135" textLength="92.4">0::::::...o</text>
+<text x="186.0" y="150" textLength="126.0">:: *::      ...</text>
+<text x="177.6" y="165" textLength="151.2">::   : ::::  .  ..</text>
+<text x="160.8" y="180" textLength="184.8">::     ::   :::    ...</text>
+<text x="152.4" y="195" textLength="210.0">:         :    .:::   ...</text>
+<text x="135.6" y="210" textLength="243.6">O:          ::   .   :::  ...</text>
+<text x="144.0" y="225" textLength="252.0">....*       ::  .      :::  .o</text>
+<text x="177.6" y="240" textLength="218.4">.....    : .       ..::0*.</text>
+<text x="211.2" y="255" textLength="184.8">..o.. :*  ::*::::::  .</text>
+<text x="236.4" y="270" textLength="159.6">..*.@:::   :::    .</text>
+<text x="244.8" y="285" textLength="151.2">.*:.::::::       .</text>
+<text x="236.4" y="300" textLength="159.6">.::. .:::::       .</text>
+<text x="228.0" y="315" textLength="168.0">.:: :::*   :::     .</text>
+<text x="211.2" y="330" textLength="193.2">*.:: :: ..     :::    :</text>
+<text x="194.4" y="345" textLength="210.0">.. ::::   ..o...    *:  :</text>
+<text x="177.6" y="360" textLength="226.8">.. :::.......    .......::O</text>
+<text x="169.2" y="375" textLength="42.0">O:::0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8542;0.8750" values="hidden;visible;hidden"/>
+<text x="202.8" y="135" textLength="92.4">0:::::::...</text>
+<text x="186.0" y="150" textLength="134.4">::::::       o..</text>
+<text x="169.2" y="165" textLength="168.0">:::  :  :::    . ...</text>
+<text x="160.8" y="180" textLength="193.2">::     ::  ::: .    ...</text>
+<text x="152.4" y="195" textLength="218.4">.        :    :::      ...</text>
+<text x="144.0" y="210" textLength="243.6">O..        :     .:::     ...</text>
+<text x="169.2" y="225" textLength="235.2">.*..     ::  .    ::     ...</text>
+<text x="194.4" y="240" textLength="210.0">.....  :  *      ::0....O</text>
+<text x="228.0" y="255" textLength="176.4">..o*:.. ::*::::.    .</text>
+<text x="244.8" y="270" textLength="159.6">..:@::::::        .</text>
+<text x="244.8" y="285" textLength="159.6">.::.::::          .</text>
+<text x="236.4" y="300" textLength="168.0">:*  ::.::          .</text>
+<text x="219.6" y="315" textLength="184.8">:: ::: .*  ::        :</text>
+<text x="202.8" y="330" textLength="201.6">*::::     ..   :::    ::</text>
+<text x="186.0" y="345" textLength="210.0">.::::        .o.    ::  :</text>
+<text x="169.2" y="360" textLength="226.8">O0::...........  ......*:::</text>
+<text x="362.4" y="375" textLength="33.6">.::O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8750;0.8958" values="hidden;visible;hidden"/>
+<text x="194.4" y="135" textLength="109.2">0:::::::::...</text>
+<text x="186.0" y="150" textLength="142.8">:::::         .O.</text>
+<text x="177.6" y="165" textLength="168.0">:   ::::       .  ..</text>
+<text x="169.2" y="180" textLength="193.2">:     :  ::    ..    ..</text>
+<text x="160.8" y="195" textLength="210.0">.       ::  ::  .      ..</text>
+<text x="152.4" y="210" textLength="235.2">O..*      :    ::         ..</text>
+<text x="186.0" y="225" textLength="218.4">....   :    .::         ..</text>
+<text x="211.2" y="240" textLength="210.0">.... :  *   ::        ..O</text>
+<text x="228.0" y="255" textLength="184.8">...o*.. :*::0....... .</text>
+<text x="261.6" y="270" textLength="151.2">:@*:::.          .</text>
+<text x="244.8" y="285" textLength="168.0">::::::            ..</text>
+<text x="219.6" y="300" textLength="184.8">::*::  ..::          :</text>
+<text x="202.8" y="315" textLength="201.6">:::::     .* ::        :</text>
+<text x="186.0" y="330" textLength="218.4">:*::         ..  :       :</text>
+<text x="169.2" y="345" textLength="226.8">:::.            .   ::    :</text>
+<text x="160.8" y="360" textLength="235.2">0O................o... ::  :</text>
+<text x="345.6" y="375" textLength="42.0">..*::</text>
+<text x="379.2" y="390" textLength="8.4">O</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.8958;0.9167" values="hidden;visible;hidden"/>
+<text x="194.4" y="135" textLength="109.2">0::::::::::..</text>
+<text x="186.0" y="150" textLength="159.6">: :::         ..O..</text>
+<text x="177.6" y="165" textLength="176.4">.:  :::         .  ..</text>
+<text x="177.6" y="180" textLength="184.8">.    : ::      ..    .</text>
+<text x="169.2" y="195" textLength="210.0">o      : ::     .      ..</text>
+<text x="177.6" y="210" textLength="218.4">.*..   :  ::  .         ..</text>
+<text x="194.4" y="225" textLength="218.4">..... :   :*           ...</text>
+<text x="219.6" y="240" textLength="201.6">....:  .::            ..</text>
+<text x="236.4" y="255" textLength="193.2">...*o.*:0  ...........O</text>
+<text x="261.6" y="270" textLength="159.6">:@:*.....         :</text>
+<text x="236.4" y="285" textLength="176.4">:::: ::             :</text>
+<text x="211.2" y="300" textLength="201.6">:*:..    .:            :</text>
+<text x="186.0" y="315" textLength="218.4">::::.       ..::         :</text>
+<text x="160.8" y="330" textLength="243.6">::: *.          .*::       ::</text>
+<text x="144.0" y="345" textLength="252.0">0::.o..            .. :      :</text>
+<text x="202.8" y="360" textLength="184.8">.............o..::   :</text>
+<text x="337.2" y="375" textLength="50.4">..:: :</text>
+<text x="354.0" y="390" textLength="25.2">:*0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9167;0.9375" values="hidden;visible;hidden"/>
+<text x="194.4" y="135" textLength="109.2">0::::::::::::</text>
+<text x="186.0" y="150" textLength="159.6">: ::          ....O</text>
+<text x="186.0" y="165" textLength="176.4">:  ::            . ..</text>
+<text x="186.0" y="180" textLength="184.8">.   ::         ..   ..</text>
+<text x="186.0" y="195" textLength="193.2">o    :::       .      .</text>
+<text x="194.4" y="210" textLength="201.6">...  :::     .        ..</text>
+<text x="211.2" y="225" textLength="201.6">....:::  .*           .:</text>
+<text x="228.0" y="240" textLength="193.2">...:.: .             ::</text>
+<text x="244.8" y="255" textLength="184.8">..*:0o         ::::::O</text>
+<text x="236.4" y="270" textLength="193.2">::::@::*:::::::::     :</text>
+<text x="211.2" y="285" textLength="210.0">::::::. : .             :</text>
+<text x="186.0" y="300" textLength="226.8">::*::..     ::.           :</text>
+<text x="160.8" y="315" textLength="243.6">:::: ...        ::          :</text>
+<text x="135.6" y="330" textLength="268.8">::::  .*.          ..:        ::</text>
+<text x="127.2" y="345" textLength="268.8">0:::..o........      *.:       :</text>
+<text x="253.2" y="360" textLength="134.4">........o:     :</text>
+<text x="328.8" y="375" textLength="50.4">.:   :</text>
+<text x="345.6" y="390" textLength="25.2">:::</text>
+<text x="354.0" y="405" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9375;0.9583" values="hidden;visible;hidden"/>
+<text x="194.4" y="135" textLength="109.2">0::::::::::::</text>
+<text x="194.4" y="150" textLength="168.0">:::          ::...O.</text>
+<text x="194.4" y="165" textLength="176.4">. :              . ..</text>
+<text x="194.4" y="180" textLength="184.8">.  ::          ..    .</text>
+<text x="194.4" y="195" textLength="193.2">o.  :         ..     .:</text>
+<text x="202.8" y="210" textLength="193.2">...::       *.        :</text>
+<text x="219.6" y="225" textLength="193.2">..:::.   ..          ::</text>
+<text x="236.4" y="240" textLength="184.8">.:* ....            ::</text>
+<text x="236.4" y="255" textLength="193.2">::0* ..o              :</text>
+<text x="211.2" y="270" textLength="226.8">:::  ::@::::*:::::::::::::O</text>
+<text x="186.0" y="285" textLength="243.6">::::::::.. :  .             :</text>
+<text x="160.8" y="300" textLength="260.4">::::*:: ..     : ..          ::</text>
+<text x="135.6" y="315" textLength="277.2">:::::   ...       :: .         ::</text>
+<text x="118.8" y="330" textLength="277.2">0:::....o*.          ::.        :</text>
+<text x="186.0" y="345" textLength="210.0">.........      *.      ::</text>
+<text x="261.6" y="360" textLength="117.6">......:o     :</text>
+<text x="320.4" y="375" textLength="50.4">:.   :</text>
+<text x="328.8" y="390" textLength="33.6">:: :</text>
+<text x="337.2" y="405" textLength="16.8">:0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9583;0.9792" values="hidden;visible;hidden"/>
+<text x="194.4" y="135" textLength="117.6">0:::::::::::::</text>
+<text x="202.8" y="150" textLength="159.6">::          ::::..O</text>
+<text x="202.8" y="165" textLength="176.4">: :              ....</text>
+<text x="202.8" y="180" textLength="184.8">.:::            .   ::</text>
+<text x="211.2" y="195" textLength="176.4">o.:          ..     :</text>
+<text x="219.6" y="210" textLength="184.8">:.:.       .*       ::</text>
+<text x="219.6" y="225" textLength="193.2">:..:*..   ..         ::</text>
+<text x="228.0" y="240" textLength="193.2">: .:  ...             :</text>
+<text x="211.2" y="255" textLength="218.4">::0*::: ...*o           ::</text>
+<text x="186.0" y="270" textLength="252.0">:::    :::@:::::*::::::::::::0</text>
+<text x="160.8" y="285" textLength="268.8">:::: ::::::..:*   .            :</text>
+<text x="135.6" y="300" textLength="285.6">:::::*::  ...    :.   .         ::</text>
+<text x="118.8" y="315" textLength="294.0">0:::      ...       :.  .        ::</text>
+<text x="144.0" y="330" textLength="252.0">......o..         :. .       :</text>
+<text x="219.6" y="345" textLength="168.0">......   : ..     ::</text>
+<text x="270.0" y="360" textLength="109.2">....:.*    ::</text>
+<text x="303.6" y="375" textLength="58.8">::.o  :</text>
+<text x="312.0" y="390" textLength="42.0">:: ::</text>
+<text x="320.4" y="405" textLength="25.2">:::</text>
+<text x="320.4" y="420" textLength="8.4">0</text>
+</g>
+<g visibility="hidden"><animate attributeName="visibility" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.9792;1.0000" values="hidden;visible;hidden"/>
+<text x="202.8" y="120" textLength="8.4">O</text>
+<text x="202.8" y="135" textLength="100.8">::::::::::::</text>
+<text x="202.8" y="150" textLength="168.0">::          :::::::O</text>
+<text x="202.8" y="165" textLength="176.4">:.:               :::</text>
+<text x="202.8" y="180" textLength="184.8">: ::            ::   :</text>
+<text x="202.8" y="195" textLength="193.2">:  o:.         *:     :</text>
+<text x="202.8" y="210" textLength="201.6">:   ::..      :        :</text>
+<text x="202.8" y="225" textLength="210.0">:    *: ... ::         ::</text>
+<text x="202.8" y="240" textLength="210.0">:     :   .:.           :</text>
+<text x="186.0" y="255" textLength="235.2">::0*:::: * ::  .*o         :</text>
+<text x="160.8" y="270" textLength="268.8">:::       :::@::::::*:         :</text>
+<text x="144.0" y="285" textLength="294.0">::: ::::::::...::     . ::::::::::0</text>
+<text x="118.8" y="300" textLength="310.8">O:::::*      ..    *.    .         ::</text>
+<text x="127.2" y="315" textLength="285.6">::.....  ...      :..   .       ::</text>
+<text x="186.0" y="330" textLength="210.0">.o....      : .  .      :</text>
+<text x="228.0" y="345" textLength="159.6">...... :  . .    ::</text>
+<text x="270.0" y="360" textLength="100.8">..::. *.   :</text>
+<text x="295.2" y="375" textLength="67.2">: ..o ::</text>
+<text x="295.2" y="390" textLength="50.4">:  .::</text>
+<text x="303.6" y="405" textLength="33.6">::::</text>
+<text x="303.6" y="420" textLength="16.8">0:</text>
+</g>
+</g>
+</g>
+</svg>

@@ -70,8 +70,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hands-dark.svg">
-    <img src="assets/hands.svg" width="100%" alt="ASCII art of two reaching hands with a rotating neural network node between them">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/node-dark.svg">
+    <img src="assets/node.svg" width="420" alt="Rotating ASCII neural network node">
   </picture>
 </p>
 
